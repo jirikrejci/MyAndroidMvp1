@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAndroidMvp1</string>
+    <string name="btn_log_in">LOG IN</string>
+    <string name="hint_user_name">User name</string>
+    <string name="hint_password">password</string>
+    <string name="error_username">Username cannot be empty</string>
+    <string name="error_password">Password cannot be empty</string>
+
+</resources>
